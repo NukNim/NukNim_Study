@@ -20,6 +20,7 @@ public class main {
 
 
 	         System.out.println( fh + " " + fm );
+	         System.out.println("서로다른 테스트문 추가");
 
 	      
 	   }
