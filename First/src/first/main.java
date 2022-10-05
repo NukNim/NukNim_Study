@@ -21,6 +21,7 @@ public class main {
 
 	         System.out.println( fh + " " + fm );
 	         System.out.println("서로다른 테스트문 추가");
+	         System.out.println( "테스트 출력문");
 
 	      
 	   }
